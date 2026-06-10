@@ -1,4 +1,4 @@
-# media researcher & editor
+# Alex - media researcher & editor
 
 Работаю на стыке медиаисследований, редактирования и автоматизации контент-процессов.
 
