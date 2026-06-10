@@ -1,16 +1,19 @@
-## Hi there 👋
+# media researcher & editor
 
-<!--
-**slkttt/slkttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Работаю на стыке медиаисследований, редактирования и автоматизации контент-процессов.
 
-Here are some ideas to get you started:
+## Сферы интересов
+- 📑 Медиаправо и регулирование медиасферы
+- ⚖️ Деонтология журналистики, авторское право на контент
+- 📣 Контент-маркетинг, нативная реклама, brand journalism
+- 🤖 ИИ в медиа и онлайн-образовании
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Инструменты
+`n8n` · `Obsidian` · `Notion` · `Python-автоматизация документов` · `Markdown/LaTeX`
+
+## Здесь публикую
+- Автоматизации для редакционных и учебных задач (n8n-workflow)
+- Шаблоны и скрипты для подготовки учебных материалов
+- Открытые материалы к исследованиям
+
+📫 Контакт: clash-copper-slain@duck.com или через issues в любом репозитории
